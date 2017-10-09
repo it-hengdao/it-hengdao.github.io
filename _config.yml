@@ -79,4 +79,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/it-hengdao/it-hengdao.github.io.git
-  branch: master
+  branch: hexo
